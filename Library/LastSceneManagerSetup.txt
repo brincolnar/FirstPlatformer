@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Warped Caves/Scenes/FirstLevel.unity
+- path: Assets/Scenes/SkeletalAnimation.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
